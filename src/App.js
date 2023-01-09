@@ -15,6 +15,14 @@ export default function App() {
             rel="noreferrer"
           >
             Link to Github project
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://bucolic-jalebi-171b2a.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Hosted on Netlify
           </a>
         </footer>
       </div>
